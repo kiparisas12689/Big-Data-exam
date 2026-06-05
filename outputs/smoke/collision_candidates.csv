@@ -1,0 +1,2 @@
+mmsi_a,mmsi_b,name_a,name_b,time_a,time_b,collision_time,lat_a,lon_a,lat_b,lon_b,collision_lat,collision_lon,sog_a,sog_b,cog_a,cog_b,length_m_a,length_m_b,time_delta_seconds,distance_nm
+219000001,219000002,TEST ALPHA,TEST BRAVO,2021-12-01T00:05:00.000Z,2021-12-01T00:05:20.000Z,2021-12-01T00:05:10.000Z,55.225,14.245,55.22501,14.24501,55.225004999999996,14.245004999999999,6.0,6.0,45.0,225.0,120.0,110.0,20,6.911971415510339E-4
