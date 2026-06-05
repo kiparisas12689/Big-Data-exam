@@ -1,0 +1,5 @@
+# Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
+01/12/2021 00:00:00,Class A,219000001,55.220000,14.240000,Under way using engine,0.0,6.0,45.0,45,Unknown,AAA111,TEST ALPHA,Cargo,,20,120,GPS,5.0,BORNHOLM,,AIS,,,,
+01/12/2021 00:05:00,Class A,219000001,55.225000,14.245000,Under way using engine,0.0,6.0,45.0,45,Unknown,AAA111,TEST ALPHA,Cargo,,20,120,GPS,5.0,BORNHOLM,,AIS,,,,
+01/12/2021 00:00:20,Class A,219000002,55.230000,14.250000,Under way using engine,0.0,6.0,225.0,225,Unknown,BBB222,TEST BRAVO,Cargo,,18,110,GPS,4.8,BORNHOLM,,AIS,,,,
+01/12/2021 00:05:20,Class A,219000002,55.225010,14.245010,Under way using engine,0.0,6.0,225.0,225,Unknown,BBB222,TEST BRAVO,Cargo,,18,110,GPS,4.8,BORNHOLM,,AIS,,,,

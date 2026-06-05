@@ -1,0 +1,12 @@
+services:
+  collision-detector:
+    build: .
+    image: big-data-vessel-collision:latest
+    volumes:
+      - ./Data:/data:ro
+      - ./outputs:/outputs
+    command:
+      - --input
+      - /data/aisdk-2021-12-*.csv
+      - --output-dir
+      - /outputs
